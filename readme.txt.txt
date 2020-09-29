@@ -73,3 +73,7 @@ https://medium.com/@buw/aws-client-vpn%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%9
 
 
 추가된 메세지
+git status
+git add .
+git commit -m "message"
+git push origin master
