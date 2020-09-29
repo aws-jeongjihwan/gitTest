@@ -71,3 +71,5 @@ https://github.com/aws-samples/eks-workshop/blob/main/content/intermediate/245_x
 
 https://medium.com/@buw/aws-client-vpn%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EA%B0%80%EC%A0%95%EC%97%90%EC%84%9C-%EC%97%85%EB%AC%B4-%ED%99%95%EC%9E%A5-b5416749081c
 
+
+추가된 메세지
