@@ -56,14 +56,6 @@ http://a664e65b2f37a4345802dda760c2cc2e-212722739.ap-southeast-1.elb.amazonaws.c
 [kibana]
 https://search-eksworkshop-logging-6u466w5mompxx4duxjeo2xk4qi.ap-southeast-1.es.amazonaws.com/_plugin/kibana/app/kibana#/home/tutorial/cloudwatchLogs?_g=()
 
-[github]
-aws-jeongjihwan
-aws-jeongjihwan
-qwer1234@12!
-
-
-access tokens
-231c3207c6bef00d4c3c85cd74a5e51dc7488d16
 
 
 https://github.com/aws-samples/eks-workshop/blob/main/content/intermediate/245_x-ray/sample-back.files/main.go#L26
